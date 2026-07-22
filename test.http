@@ -1,0 +1,5 @@
+@Url = http://localhost:8080
+
+GET {{Url}}/api/v1/db-version
+###
+GET {{Url}}/api/v1/health
